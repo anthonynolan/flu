@@ -4,3 +4,5 @@ The original data was downloaded from [here](https://www.kaggle.com/lachmann12/w
 
 Latitude and lonitude data was downloaded from [here](
 https://www.kaggle.com/paultimothymooney/latitude-and-longitude-for-every-country-and-state).
+
+Population data from the World Bank [here](https://data.worldbank.org/indicator/SP.POP.TOTL).
